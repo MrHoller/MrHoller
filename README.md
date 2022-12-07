@@ -18,6 +18,6 @@ See my pinned repositories to browse my opensource projects.
 
 ### My activity
 <div>  
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=mrholler&show_icons=true&hide_border=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrHoller&hide_border=true&theme=material-palenight&langs_count=5"/>
+  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=mrholler&show_icons=true&hide_border=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrHoller&hide_border=true&theme=material-palenight&langs_count=5"/>
 </div>
